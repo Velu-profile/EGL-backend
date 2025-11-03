@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+supabase
+pydantic
+pydantic-settings
+python-jose
