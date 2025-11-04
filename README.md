@@ -1,4 +1,4 @@
-# pwbms-backend
+# EGL-backend
 
 This is the backend service for EGL Budget Managament application built using:
 - ⚡ FastAPI
